@@ -1,10 +1,17 @@
 # README 
 
-Pur1fy -> Public Repo
+Pur1fy -> Public Repo --> SUPER EARLY WORK IN PROGRESS. BABY STEPS.
+
 CLI Tool in Golang aimed at CyberSec!
 The goals are to consume relevant apis, and perform scans automatically, saving you time and also auto generating a report. 
 
-#### TO-DO LIST:
+## How to run
+Run the program in any shell with go installed locally. 
+```bash
+go run main.go
+```
+
+#### TO-DO LIST for Dev:
 ----------------
 1. Replace this toy api with Shodan API and Searchsploit/some CVE API available.
 2. Display shortened results
